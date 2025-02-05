@@ -43,16 +43,13 @@ O **EasyCall-NG** é a interface web do sistema EasyCall, desenvolvida com **Ang
 
 - [Angular](https://angular.io/)
 - [Bootstrap](https://getbootstrap.com/)
-- [RxJS](https://rxjs.dev/)
-- [Jasmine](https://jasmine.github.io/)
-- [Karma](https://karma-runner.github.io/)
 
 ## 📋 Como Executar o Projeto
 
 ### 📌 Requisitos
 
-- [Node.js](https://nodejs.org/) (v16 ou superior)
-- [Angular CLI](https://angular.io/cli) (v15 ou superior)
+- [Node.js](https://nodejs.org/) (v23 ou superior)
+- [Angular CLI](https://angular.io/cli) (v19 ou superior)
 
 ### 🚀 Instalação e Execução
 
@@ -161,16 +158,13 @@ The **EasyCall-NG** is the web interface for the EasyCall system, developed with
 
 - [Angular](https://angular.io/)
 - [Bootstrap](https://getbootstrap.com/)
-- [RxJS](https://rxjs.dev/)
-- [Jasmine](https://jasmine.github.io/)
-- [Karma](https://karma-runner.github.io/)
 
 ## 📋 How to Run the Project
 
 ### 📌 Requirements
 
-- [Node.js](https://nodejs.org/) (v16 or higher)
-- [Angular CLI](https://angular.io/cli) (v15 or higher)
+- [Node.js](https://nodejs.org/) (v23 or higher)
+- [Angular CLI](https://angular.io/cli) (v19 or higher)
 
 ### 🚀 Installation and Execution
 
