@@ -1,6 +1,7 @@
 # EasyCall-NG 📱
 
 _[English Version](#easycall-ng-en-)_
+
 _[Versão em Português](#easycall-ng-pt-br-)_
 
 # EasyCall-NG (PT-BR) 🇧🇷
